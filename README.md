@@ -9,10 +9,6 @@ wget https://github.com/3981877/docker/releases/download/4.0/docker.sh
 ```
 ## 使用准备：
 
-### 安装依赖
-```
-sudo apt-get install jq
-```
 ### 设置权限
 ```
 chmod +x docker.sh
