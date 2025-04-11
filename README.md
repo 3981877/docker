@@ -5,7 +5,7 @@ Docker容器一键管理脚本
 
 docker管理一键脚本：
 ```
-bash <(curl -sL https://github.com/3981877/docker/releases/download/4.0/docker.sh)
+bash <(curl -sL https://github.com/3981877/docker/releases/download/5.0/default.sh)
 ```
 ## 使用准备：
 
